@@ -100,6 +100,9 @@ kubectl get services
 
 ![](2.4/guestbook-web.png)
 
+Video de demostración y explicación
+[ver demo](2.4/2.4.mp4)
+
 #### Ejercicio 2.5
 ##### Diagrama de alto nivel
 ![](2.5/2.5_alto.png)
