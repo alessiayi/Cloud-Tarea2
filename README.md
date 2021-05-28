@@ -12,8 +12,8 @@
 
 #### Ejercicio 2.5
 ##### Diagrama de alto nivel
-![](2.5_alto.png)
+![](2.5/2.5_alto.png)
 ##### Diagrama de bajo nivel
-![](2.5_bajo.png)
+![](2.5/2.5_bajo.png)
 
 
